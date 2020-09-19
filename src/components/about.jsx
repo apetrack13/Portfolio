@@ -13,18 +13,15 @@ export default class About extends Component {
                     <div className="about-desc">
                     <h2 className="colorlib-heading">Biography</h2>
                         <p>
-                            I am a biomedical engineer with a strong interest in passion
-                            in research. Recently, I completed my Master of Science in Biomedical
-                            Engineering at Wright State University. During my graduate studies,
-                            I worked in the Biomedical Imaging lab, which I developed novel,
-                            state-of-the-art optical imaging devices.
-                        </p>
-                        <p>
-                            My work and research experience is deeply involved in machine/deep
-                            learning. As part of my master's thesis. I developed a novel,
-                            single pixel spatial frequency domain optical imaging device to
-                            work towards achieving a practical that could be used in research
-                            to better understand the pathogenesis of Alzheimer's disease.
+                            I am a biomedical engineer from Wright State University with experience
+                            in medical imaging, machine learning, and image processing.
+                            Recently, I completed my master's degree in biomedical
+                            engineering from Wright State University. During my graduate studies,
+                            I developed novel and state-of-the-art optical imaging devices for the Biomedical
+                            Imaging Lab. For my master's thesis, I designed and implemented a single pixel 
+                            camera based spatial frequency domain optical  imaging device towork towards 
+                            achieving a practical that could be used work towards developing a better 
+                            understanding of the pathogenesis of Alzheimer's disease.
                         </p>
                     </div>
                 </div>

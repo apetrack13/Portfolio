@@ -31,7 +31,7 @@ export default class Education extends Component {
                                                             <h1>Overview</h1>
                                                             <p>
                                                                 Recently, I started working towards a master's degree in computer science
-                                                                from Wright State University. I plan to study machine/deep learning, 
+                                                                at Wright State University. I plan to study machine/deep learning, 
                                                                 parrallel computing, and big data analytics.
                                                             </p>
                                                         </div>
@@ -59,7 +59,7 @@ export default class Education extends Component {
                                                         <div className="col-md-6">
                                                         <h1>Overview</h1>
                                                             <p>
-                                                            I completed my master's degree in biomedical engineering in July of 2020 from
+                                                            I completed my master's degree in biomedical engineering in July of 2020 at
                                                             Wright State University. During my graduate studies, I worked as a Graduate
                                                             Teaching Assistant for the Biomedical Imaging Lab under the supervision of
                                                             Ulas Sunar, Ph.D. I successfully defended my thesis disseration, "Single Pixel
@@ -95,7 +95,7 @@ export default class Education extends Component {
                                                     <div className="col-md-6">
                                                         <h1>Overview</h1>
                                                         <p>
-                                                            I completed my Bachelor of Science in Biomedical Engineering from
+                                                            I completed my Bachelor of Science in Biomedical Engineering at
                                                             Wright State University in the spring of 2018. During my senior year,
                                                             I worked with a local neuroscience company to develop a quality control
                                                             device for transcranial direct current stimulators. The project is available
