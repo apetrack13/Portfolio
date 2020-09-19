@@ -20,8 +20,9 @@ export default class About extends Component {
                             I developed novel and state-of-the-art optical imaging devices for the Biomedical
                             Imaging Lab. For my master's thesis, I designed and implemented a single pixel 
                             camera based spatial frequency domain optical  imaging device towork towards 
-                            achieving a practical that could be used work towards developing a better 
-                            understanding of the pathogenesis of Alzheimer's disease.
+                            achieving a practical that could be used to monitor brain function to 
+                            work towards developing a better a better understanding of the pathogenesis 
+                            of Alzheimer's disease.
                         </p>
                     </div>
                 </div>
