@@ -13,16 +13,18 @@ export default class About extends Component {
                     <div className="about-desc">
                     <h2 className="colorlib-heading">Biography</h2>
                         <p>
-                            I am a biomedical engineer from Wright State University with experience
-                            in medical imaging, machine learning, and image processing.
-                            Recently, I completed my master's degree in biomedical
-                            engineering from Wright State University. During my graduate studies,
-                            I developed novel and state-of-the-art optical imaging devices for the Biomedical
-                            Imaging Lab. For my master's thesis, I designed and implemented a single pixel 
-                            camera based spatial frequency domain optical  imaging device towork towards 
-                            achieving a practical that could be used to monitor brain function to 
-                            work towards developing a better a better understanding of the pathogenesis 
-                            of Alzheimer's disease.
+                        I am a biomedical engineer from Wright State University 
+                        with experience in medical imaging, machine learning, 
+                        and image processing. Recently, I completed my master's 
+                        degree in biomedical engineering from Wright State University. 
+                        During my graduate studies, I developed novel and state-of-the-art 
+                        optical imaging devices for the Biomedical Imaging Lab located in
+                        the heart of the Neuroscience Engineering Collaboration building at Wright
+                        State University. As part of my  master's thesis, I designed and implemented a single pixel 
+                        camera based spatial frequency domain optical imaging device. 
+                        The goal was to achieve a practical that could be used to monitor 
+                        brain function working towards a better understanding of the pathogenesis 
+                        of Alzheimer's disease.
                         </p>
                     </div>
                 </div>
