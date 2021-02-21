@@ -16,7 +16,8 @@ export default class About extends Component {
                         I am a biomedical engineer from Wright State University 
                         with experience in medical imaging, machine learning, 
                         and image processing. Recently, I completed my master's 
-                        degree in biomedical engineering from the Department of Biomedial, Industrial &amp Wright State University. 
+                        degree in biomedical engineering from the Department of Biomedial, 
+                        Industrial &amp Human Factors Engineering at Wright State University. 
                         During my graduate studies, I developed novel and state-of-the-art 
                         optical imaging devices for the Biomedical Imaging Lab located in
                         the heart of the Neuroscience Engineering Collaboration building at Wright
