@@ -14,6 +14,23 @@ export default class WorkExperience extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
+                <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Project Coordinator at Medpace Imaging Core Laboratories <span>Sep. 2020 - Present</span></h2>
+                        <p>
+                          Copy and distribute study documentation/correspondence to Sponsor, site, and MCL project 
+                          team and assist in review and resolution of site queries.
+                        </p>
+                        <p>
+                          Manage and assure the quality of CT/MRI image collections from sites and conduct routine follow-ups. 
+                        </p>
+                      </div>
+                    </div>
+                  </article>
                   <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
                       <div className="timeline-icon color-3">
