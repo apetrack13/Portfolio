@@ -13,19 +13,20 @@ export default class About extends Component {
                     <div className="about-desc">
                     <h2 className="colorlib-heading">Biography</h2>
                         <p>
-                        I am a biomedical engineer from Wright State University 
+                        I am a Biomedical Engineer from Wright State University 
                         with experience in medical imaging, machine learning, 
                         and image processing. Recently, I completed my master's 
-                        degree in biomedical engineering from the Department of Biomedial, 
-                        Industrial &amp Human Factors Engineering at Wright State University. 
-                        During my graduate studies, I developed novel and state-of-the-art 
+                        degree in biomedical engineering from the Department of Biomedical, 
+                        Industrial & Human Factors Engineering at Wright State University. 
+                        During my graduate studies, I developed novel, state-of-the-art 
                         optical imaging devices for the Biomedical Imaging Lab located in
-                        the heart of the Neuroscience Engineering Collaboration building at Wright
-                        State University. As part of my  master's thesis, I designed and implemented a single pixel 
-                        camera based spatial frequency domain optical imaging device. 
-                        The goal was to achieve a practical that could be used to monitor 
-                        brain function working towards a better understanding of the pathogenesis 
-                        of Alzheimer's disease.
+                        the heart of the Neuroscience Engineering Collaboration building; a center where
+                        engineers collaborate with medical researchers and clinicians to improve the
+                        diagnosis and treatment of neurological disorders and cancer. As part of 
+                        my  master's thesis, I designed and implemented a single pixel 
+                        camera based spatial frequency domain optical imaging device to work 
+                        towards achieving a imaging modality that could be used to monitor 
+                        the progression of Alzheimer's disease, bed-side. 
                         </p>
                     </div>
                 </div>
@@ -49,7 +50,7 @@ export default class About extends Component {
                 </span>
                 <div className="desc">
                     <h3>Signal Processing </h3>
-                    <p>I have coursework in signals and systems, image processing, and machine
+                    <p>I have taken coursework in signals and systems, image processing, and machine
                         learning. My thesis work also utilized concepts in this space.
                     </p>
                 </div>

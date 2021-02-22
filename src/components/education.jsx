@@ -37,6 +37,7 @@ export default class Education extends Component {
                                                         </div>
                                                         <div className="col-md-6">
                                                             <h1>Coursework</h1>
+                                                            <li>Data Structures & Algorithms</li>
                                                             <li>Deep Learning</li>
                                                             <li>Data Structures & Algorithms</li>
                                                             <li>Machine Learning</li>
@@ -61,7 +62,7 @@ export default class Education extends Component {
                                                             <p>
                                                             I completed my master's degree in biomedical engineering in July of 2020 at
                                                             Wright State University. During my graduate studies, I worked as a Graduate
-                                                            Teaching Assistant for the Biomedical Imaging Lab under the supervision of
+                                                            Research Assistant for the Biomedical Imaging Lab under the supervision of
                                                             Ulas Sunar, Ph.D. I successfully defended my thesis disseration, "Single Pixel
                                                             Camera Based Spatial Frequency Domain Imaging for Non-Contact Tissue
                                                             Characterization", which I developed a novel single pixel imaging system
