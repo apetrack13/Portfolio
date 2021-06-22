@@ -13,7 +13,7 @@ export default class About extends Component {
                     <div className="about-desc">
                     <h2 className="colorlib-heading">Biography</h2>
                         <p>
-                        I am a Biomedical Engineer 
+                        I am a biomedical engineer 
                         with experience in medical imaging, machine learning, 
                         and image processing. I received my Master of Science 
                         in Biomedical Engineering degree from the Department of Biomedical, 
