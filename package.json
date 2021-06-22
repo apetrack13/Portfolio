@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://apetrack13.github.io/Portfolio/",
   "dependencies": {
+    "create-react-app": "^4.0.3",
     "gh-pages": "^2.2.0",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
