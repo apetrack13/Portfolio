@@ -13,20 +13,19 @@ export default class About extends Component {
                     <div className="about-desc">
                     <h2 className="colorlib-heading">Biography</h2>
                         <p>
-                        I am a Biomedical Engineer from Wright State University 
+                        I am a Biomedical Engineer 
                         with experience in medical imaging, machine learning, 
-                        and image processing. Recently, I completed my master's 
-                        degree in biomedical engineering from the Department of Biomedical, 
-                        Industrial & Human Factors Engineering at Wright State University. 
+                        and image processing. I received my Master of Science 
+                        in Biomedical Engineering degree from the Department of Biomedical, 
+                        Industrial & Human Factors Engineering at Wright State University with a concentration in medical imaging. 
                         During my graduate studies, I developed novel, state-of-the-art 
                         optical imaging devices for the Biomedical Imaging Lab located in
-                        the heart of the Neuroscience Engineering Collaboration building; a center where
+                        the heart of the Neuroscience & Engineering Collaboration building; a center where
                         engineers collaborate with medical researchers and clinicians to improve the
                         diagnosis and treatment of neurological disorders and cancer. As part of 
-                        my  master's thesis, I designed and implemented a single pixel 
-                        camera based spatial frequency domain optical imaging device to work 
-                        towards achieving a imaging modality that could be used to monitor 
-                        the progression of Alzheimer's disease, bed-side. 
+                        my  master's thesis, I designed and implemented a novel single pixel 
+                        camera based spatial frequency domain optical imaging device to monitor  
+                        to monitor progression of Alzheimer's disease, bed-side. 
                         </p>
                     </div>
                 </div>
@@ -51,7 +50,7 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Signal Processing </h3>
                     <p>I have taken coursework in signals and systems, image processing, and machine
-                        learning. My thesis work also utilized concepts in this space.
+                        learning. My thesis work and industry experience has also utilized concepts in this space.
                     </p>
                 </div>
                 </div>
@@ -64,7 +63,7 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Machine Learning</h3>
                     <p>I have applied machine learning to overcome barriers in the field of optical
-                        imaging and have internship experience.
+                        imaging and have industry experience.
                     </p>
                 </div>
                 </div>
@@ -77,7 +76,7 @@ export default class About extends Component {
                 <div className="desc">
                     <h3>Software</h3>
                     <p>I am an advid programmer. I have project experience utilizing programming languages
-                        such as Python, MATLAB, and C++. I am also familiar with web technologies.
+                        such as Python, MATLAB, and C++. I am also familiar with web technologies such as HTML, CSS, JS, and SQL.
                     </p>
                 </div>
                 </div>
@@ -102,7 +101,7 @@ export default class About extends Component {
                 </span>
                         <div className="desc">
                             <h3>Medical Imaging</h3>
-                            <p>My research and internship experience pertains to medical imaging. Beyond
+                            <p>My research and industry experience pertains to medical imaging. Beyond
                                 my coursework as a Biomedical Engineer, I have worked with CT and many
                                 optical imaging modalities.
                             </p>
