@@ -30,7 +30,7 @@ export default class Education extends Component {
                                                         <div className="col-md-6">
                                                             <h1>Overview</h1>
                                                             <p>
-                                                                I pursuing a Master of Science Degree in Computer Science degree
+                                                                I am pursuing a Master of Science Degree in Computer Science degree
                                                                 at Wright State University. I plan to study machine/deep learning, 
                                                                 parrallel computing, and advanced signal processing.
                                                             </p>
@@ -60,10 +60,10 @@ export default class Education extends Component {
                                                         <div className="col-md-6">
                                                         <h1>Overview</h1>
                                                             <p>
-                                                            I received my Master of Science in Biomedical Engineering July of 2020 at
+                                                            I received my Master of Science in Biomedical Engineering degree July of 2020 at
                                                             Wright State University. During my graduate studies, I worked as a Graduate
                                                             Research Assistant for the Biomedical Imaging Lab under the supervision of
-                                                            Ulas Sunar, Ph.D. As part of my thesis disseration "Single Pixel
+                                                            Ulas Sunar, Ph.D. As part of my thesis disseration, "Single Pixel
                                                             Camera Based Spatial Frequency Domain Imaging for Non-Contact Tissue
                                                             Characterization", I developed a novel single pixel imaging system
                                                             to monitor the progression of Alzheimers.
@@ -96,7 +96,7 @@ export default class Education extends Component {
                                                     <div className="col-md-6">
                                                         <h1>Overview</h1>
                                                         <p>
-                                                            I completed my Bachelor of Science in Biomedical Engineering at
+                                                            I received my Bachelor of Science in Biomedical Engineering degree at
                                                             Wright State University in the spring of 2018. During my senior year,
                                                             I worked with a local neuroscience company to develop a quality control
                                                             device for transcranial direct current stimulators. The project is available
