@@ -22,18 +22,11 @@ export default class WorkExperience extends Component {
                       <div className="timeline-label">
                         <h2>Project Coordinator at Medpace Imaging Core Laboratories <span>Sep. 2020 - Present</span></h2>
                         <p>
-                          Compile and maintain project-specific status reports and project timelines associated with imaging studies; 
-                          Manage and assure the quality of CT/MRI image collections from sites and conduct routine follow-ups; 
-                          Maintain inventory of imaging study supplies for study sites; and
-                          interact with study sites and internal associates.
-                          General IRT Support;
-                          Study product management;
-                          Assist the Project Manager in system design and set-up;
-                          Work with clients in obtaining requirements and responding to inquiries;
-                          Create study specific documents;
-                          Review study protocol to create specification documents
-                          Maintain study documentation;
-                          Other assigned projects and tasks; and  
+                          Assist the project manager draft medical imaging documentation for clinical trials;
+ 	                        Compile and maintain project-specific status reports and project timelines associated with imaging studies;
+                          Manage and assure the quality of CT/MRI image collections from sites and conduct routine follow-ups; and
+                          Collaborate with clinical database programmers and software engineers to meet build requirements.
+  
                         </p>
                       </div>
                     </div>
@@ -45,9 +38,11 @@ export default class WorkExperience extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Riverain Technologies <span>Dec. 2019 - May 2020</span></h2>
-                        <p>Designed and implemented a graphical user-interface using MATLAB to expedite
-                          segmentation of anatomy in images collected from computed tomography (CT) scans; Collaborated
-                          with a team of engineers and mathemeticians to meet project specific timelines and requirements. </p>
+                        <p> Successfully defended thesis titled “Single Pixel Camera Based Spatial Frequency Domain Imaging for Non-Contact Tissue Characterization” that proposed a novel imaging approach for characterizing Alzheimer’s;
+                            Researched optimal Fourier and wavelet basis functions for single pixel imaging;
+                            Collaborated with researchers and engineers to develop novel, state-of-the-art optical imaging devices utilizing optical sensors and scientific equipment including avalanche photodiodes, lasers, LEDs, digital micromirror devices, single photon counters, optical fibers, and digitizers; and
+                            Wrote control software for novel optical imaging devices with LabView, C++, and MATLAB.
+ </p>
                       </div>
                     </div>
                   </article>

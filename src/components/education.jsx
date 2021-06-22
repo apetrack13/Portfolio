@@ -30,9 +30,9 @@ export default class Education extends Component {
                                                         <div className="col-md-6">
                                                             <h1>Overview</h1>
                                                             <p>
-                                                                Recently, I started working towards a master's degree in computer science
+                                                                I pursuing a Master of Science Degree in Computer Science degree
                                                                 at Wright State University. I plan to study machine/deep learning, 
-                                                                parrallel computing, and big data analytics.
+                                                                parrallel computing, and advanced signal processing.
                                                             </p>
                                                         </div>
                                                         <div className="col-md-6">
@@ -60,13 +60,13 @@ export default class Education extends Component {
                                                         <div className="col-md-6">
                                                         <h1>Overview</h1>
                                                             <p>
-                                                            I completed my master's degree in biomedical engineering in July of 2020 at
+                                                            I received my Master of Science in Biomedical Engineering July of 2020 at
                                                             Wright State University. During my graduate studies, I worked as a Graduate
                                                             Research Assistant for the Biomedical Imaging Lab under the supervision of
-                                                            Ulas Sunar, Ph.D. I successfully defended my thesis disseration, "Single Pixel
+                                                            Ulas Sunar, Ph.D. As part of my thesis disseration "Single Pixel
                                                             Camera Based Spatial Frequency Domain Imaging for Non-Contact Tissue
-                                                            Characterization", which I developed a novel single pixel imaging system
-                                                            to potentially overcome hardware related barriers to SFDI.
+                                                            Characterization", I developed a novel single pixel imaging system
+                                                            to monitor the progression of Alzheimers.
                                                             </p>
                                                         </div>
                                                         <div className="col-md-6">
